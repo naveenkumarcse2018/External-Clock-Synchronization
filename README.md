@@ -5,5 +5,6 @@
 
 # Commands to run the program
 
-g++ -std=c++11 Main.cpp  -lpthread 
-./a.out  > outputlog.txt < input.txt 
+1.g++ -std=c++11 Main.cpp  -lpthread 
+
+2. ./a.out  > outputlog.txt < input.txt 
