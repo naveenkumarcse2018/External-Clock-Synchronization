@@ -2,7 +2,6 @@
 /*
 	K. Naveen Kumar
 	CS19MTECH11009
-	DC Programming Assignment-I
 	IIT Hyderabad
 */
 
