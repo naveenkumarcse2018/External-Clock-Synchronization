@@ -1,0 +1,241 @@
+Socket Created Successfully for process 2 
+Socket Created Successfully for process 1 
+Socket Created Successfully for process 4 
+Socket Created Successfully for process 3 
+Socket Created Successfully for process 5 
+Server 4 requests round_number 1 clock synchronization to Server 1 at 16:36:27
+Server 5 requests round_number 1 clock synchronization to Server 1 at 16:36:27
+Server 1 requests round_number 1 clock synchronization to Server 2 at 16:36:27
+Server 2 requests round_number 1 clock synchronization to Server 1 at 16:36:27
+Server 3 requests round_number 1 clock synchronization to Server 1 at 16:36:27
+Server 1 receives round_number 2 clock synchronization response from Server 2 at 16:36:28
+Computing the round_number 1 delta between Server 1 and Server 2..
+Server 2 receives round_number 2 clock synchronization response from Server 1 at 16:36:28
+Computing the round_number 1 delta between Server 2 and Server 1..
+Server 1 requests round_number 1 clock synchronization to Server 3 at 16:36:28
+Server 2 requests round_number 1 clock synchronization to Server 3 at 16:36:28
+Server 1 receives round_number 2 clock synchronization response from Server 3 at 16:36:28
+Computing the round_number 1 delta between Server 1 and Server 3..
+Server 3 receives round_number 2 clock synchronization response from Server 1 at 16:36:28
+Computing the round_number 1 delta between Server 3 and Server 1..
+Server 1 requests round_number 1 clock synchronization to Server 4 at 16:36:28
+Server 1 receives round_number 2 clock synchronization response from Server 4 at 16:36:28
+Computing the round_number 1 delta between Server 1 and Server 4..
+Server 4 receives round_number 2 clock synchronization response from Server 1 at 16:36:28
+Computing the round_number 1 delta between Server 4 and Server 1..
+Server 3 requests round_number 1 clock synchronization to Server 2 at 16:36:28
+Server 1 requests round_number 1 clock synchronization to Server 5 at 16:36:28
+Server 2 receives round_number 2 clock synchronization response from Server 3 at 16:36:28
+Computing the round_number 1 delta between Server 2 and Server 3..
+Server 4 requests round_number 1 clock synchronization to Server 2 at 16:36:28
+Server 3 receives round_number 2 clock synchronization response from Server 2 at 16:36:28
+Computing the round_number 1 delta between Server 3 and Server 2..
+Server 3 requests round_number 1 clock synchronization to Server 4 at 16:36:28
+Server 1 receives round_number 2 clock synchronization response from Server 5 at 16:36:28
+Computing the round_number 1 delta between Server 1 and Server 5..
+Server 5 receives round_number 2 clock synchronization response from Server 1 at 16:36:28
+Computing the round_number 1 delta between Server 5 and Server 1..
+Server 2 requests round_number 1 clock synchronization to Server 4 at 16:36:28
+Server 4 receives round_number 2 clock synchronization response from Server 2 at 16:36:28
+Computing the round_number 1 delta between Server 4 and Server 2..
+
+::::Process 1 clock after round 1 is 16:36:28 :::: 
+Round 1 completed in process 1 
+Server 1 requests round_number 2 clock synchronization to Server 2 at 16:36:28
+Server 2 receives round_number 2 clock synchronization response from Server 4 at 16:36:28
+Computing the round_number 1 delta between Server 2 and Server 4..
+Server 5 requests round_number 1 clock synchronization to Server 2 at 16:36:28
+Server 2 requests round_number 1 clock synchronization to Server 5 at 16:36:28
+Server 4 requests round_number 1 clock synchronization to Server 3 at 16:36:28
+Server 4 receives round_number 2 clock synchronization response from Server 3 at 16:36:28
+Computing the round_number 1 delta between Server 4 and Server 3..
+Server 3 receives round_number 2 clock synchronization response from Server 4 at 16:36:28
+Computing the round_number 1 delta between Server 3 and Server 4..
+Server 2 receives round_number 2 clock synchronization response from Server 5 at 16:36:28
+Computing the round_number 1 delta between Server 2 and Server 5..
+Server 4 requests round_number 1 clock synchronization to Server 5 at 16:36:28
+Server 3 requests round_number 1 clock synchronization to Server 5 at 16:36:28
+Server 5 receives round_number 2 clock synchronization response from Server 2 at 16:36:28
+Computing the round_number 1 delta between Server 5 and Server 2..
+Server 5 requests round_number 1 clock synchronization to Server 3 at 16:36:28
+Server 3 receives round_number 2 clock synchronization response from Server 5 at 16:36:28
+Computing the round_number 1 delta between Server 3 and Server 5..
+Server 5 receives round_number 2 clock synchronization response from Server 3 at 16:36:28
+Computing the round_number 1 delta between Server 5 and Server 3..
+
+::::Process 3 clock after round 1 is 16:36:28 :::: 
+Round 1 completed in process 3 
+Server 5 requests round_number 1 clock synchronization to Server 4 at 16:36:28
+Server 3 requests round_number 2 clock synchronization to Server 1 at 16:36:28
+Server 1 receives round_number 3 clock synchronization response from Server 2 at 16:36:28
+Computing the round_number 2 delta between Server 1 and Server 2..
+Server 1 requests round_number 2 clock synchronization to Server 3 at 16:36:28
+Server 3 receives round_number 3 clock synchronization response from Server 1 at 16:36:28
+Computing the round_number 2 delta between Server 3 and Server 1..
+Server 3 requests round_number 2 clock synchronization to Server 2 at 16:36:28
+
+::::Process 2 clock after round 1 is 16:36:29 :::: 
+Round 1 completed in process 2 
+Server 2 requests round_number 2 clock synchronization to Server 1 at 16:36:29
+Server 2 receives round_number 3 clock synchronization response from Server 1 at 16:36:29
+Computing the round_number 2 delta between Server 2 and Server 1..
+Server 1 receives round_number 3 clock synchronization response from Server 3 at 16:36:29
+Computing the round_number 2 delta between Server 1 and Server 3..
+Server 2 requests round_number 2 clock synchronization to Server 3 at 16:36:29
+Server 1 requests round_number 2 clock synchronization to Server 4 at 16:36:29
+Server 2 receives round_number 3 clock synchronization response from Server 3 at 16:36:29
+Computing the round_number 2 delta between Server 2 and Server 3..
+Server 3 receives round_number 3 clock synchronization response from Server 2 at 16:36:29
+Computing the round_number 2 delta between Server 3 and Server 2..
+Server 4 receives round_number 2 clock synchronization response from Server 5 at 16:36:29
+Computing the round_number 1 delta between Server 4 and Server 5..
+Server 2 requests round_number 2 clock synchronization to Server 4 at 16:36:29
+Server 3 requests round_number 2 clock synchronization to Server 4 at 16:36:29
+
+::::Process 4 clock after round 1 is 16:36:29 :::: 
+Round 1 completed in process 4 
+Server 4 requests round_number 2 clock synchronization to Server 1 at 16:36:29
+Server 1 receives round_number 3 clock synchronization response from Server 4 at 16:36:29
+Computing the round_number 2 delta between Server 1 and Server 4..
+Server 4 receives round_number 3 clock synchronization response from Server 1 at 16:36:29
+Computing the round_number 2 delta between Server 4 and Server 1..
+Server 1 requests round_number 2 clock synchronization to Server 5 at 16:36:29
+Server 4 requests round_number 2 clock synchronization to Server 2 at 16:36:29
+Server 4 receives round_number 3 clock synchronization response from Server 2 at 16:36:29
+Computing the round_number 2 delta between Server 4 and Server 2..
+Server 2 receives round_number 3 clock synchronization response from Server 4 at 16:36:29
+Computing the round_number 2 delta between Server 2 and Server 4..
+Server 4 requests round_number 2 clock synchronization to Server 3 at 16:36:29
+Server 2 requests round_number 2 clock synchronization to Server 5 at 16:36:29
+Server 3 receives round_number 3 clock synchronization response from Server 4 at 16:36:29
+Computing the round_number 2 delta between Server 3 and Server 4..
+Server 3 requests round_number 2 clock synchronization to Server 5 at 16:36:29
+Server 5 receives round_number 2 clock synchronization response from Server 4 at 16:36:29
+Computing the round_number 1 delta between Server 5 and Server 4..
+Server 4 receives round_number 3 clock synchronization response from Server 3 at 16:36:29
+Computing the round_number 2 delta between Server 4 and Server 3..
+Server 4 requests round_number 2 clock synchronization to Server 5 at 16:36:29
+
+::::Process 5 clock after round 1 is 16:36:30 :::: 
+Round 1 completed in process 5 
+Server 5 requests round_number 2 clock synchronization to Server 1 at 16:36:30
+Server 5 receives round_number 3 clock synchronization response from Server 1 at 16:36:30
+Computing the round_number 2 delta between Server 5 and Server 1..
+Server 5 requests round_number 2 clock synchronization to Server 2 at 16:36:30
+Server 5 receives round_number 3 clock synchronization response from Server 2 at 16:36:30
+Computing the round_number 2 delta between Server 5 and Server 2..
+Server 2 receives round_number 3 clock synchronization response from Server 5 at 16:36:30
+Computing the round_number 2 delta between Server 2 and Server 5..
+Server 5 requests round_number 2 clock synchronization to Server 3 at 16:36:30
+Server 5 receives round_number 3 clock synchronization response from Server 3 at 16:36:30
+Computing the round_number 2 delta between Server 5 and Server 3..
+Server 3 receives round_number 3 clock synchronization response from Server 5 at 16:36:30
+Computing the round_number 2 delta between Server 3 and Server 5..
+Server 5 requests round_number 2 clock synchronization to Server 4 at 16:36:30
+
+::::Process 3 clock after round 2 is 16:36:30 :::: 
+Round 2 completed in process 3 
+Server 3 requests round_number 3 clock synchronization to Server 1 at 16:36:30
+Server 5 receives round_number 3 clock synchronization response from Server 4 at 16:36:30
+Computing the round_number 2 delta between Server 5 and Server 4..
+Server 4 receives round_number 3 clock synchronization response from Server 5 at 16:36:30
+Computing the round_number 2 delta between Server 4 and Server 5..
+Server 1 receives round_number 3 clock synchronization response from Server 5 at 16:36:30
+Computing the round_number 2 delta between Server 1 and Server 5..
+
+::::Process 5 clock after round 2 is 16:36:30 :::: 
+Round 2 completed in process 5 
+Server 5 requests round_number 3 clock synchronization to Server 1 at 16:36:30
+
+::::Process 4 clock after round 2 is 16:36:30 :::: 
+Round 2 completed in process 4 
+Server 4 requests round_number 3 clock synchronization to Server 1 at 16:36:30
+
+::::Process 1 clock after round 2 is 16:36:30 :::: 
+Round 2 completed in process 1 
+Server 1 requests round_number 3 clock synchronization to Server 2 at 16:36:30
+Server 1 receives round_number 4 clock synchronization response from Server 2 at 16:36:30
+Computing the round_number 3 delta between Server 1 and Server 2..
+Server 1 requests round_number 3 clock synchronization to Server 3 at 16:36:30
+Server 1 receives round_number 4 clock synchronization response from Server 3 at 16:36:30
+Computing the round_number 3 delta between Server 1 and Server 3..
+Server 3 receives round_number 4 clock synchronization response from Server 1 at 16:36:30
+Computing the round_number 3 delta between Server 3 and Server 1..
+Server 1 requests round_number 3 clock synchronization to Server 4 at 16:36:30
+Server 3 requests round_number 3 clock synchronization to Server 2 at 16:36:30
+Server 1 receives round_number 4 clock synchronization response from Server 4 at 16:36:30
+Computing the round_number 3 delta between Server 1 and Server 4..
+Server 4 receives round_number 4 clock synchronization response from Server 1 at 16:36:30
+Computing the round_number 3 delta between Server 4 and Server 1..
+Server 1 requests round_number 3 clock synchronization to Server 5 at 16:36:30
+Server 4 requests round_number 3 clock synchronization to Server 2 at 16:36:30
+Server 5 receives round_number 4 clock synchronization response from Server 1 at 16:36:30
+Computing the round_number 3 delta between Server 5 and Server 1..
+Server 5 requests round_number 3 clock synchronization to Server 2 at 16:36:30
+
+::::Process 2 clock after round 2 is 16:36:31 :::: 
+Round 2 completed in process 2 
+Server 2 requests round_number 3 clock synchronization to Server 1 at 16:36:31
+Server 2 receives round_number 4 clock synchronization response from Server 1 at 16:36:31
+Computing the round_number 3 delta between Server 2 and Server 1..
+Server 1 receives round_number 4 clock synchronization response from Server 5 at 16:36:31
+Computing the round_number 3 delta between Server 1 and Server 5..
+Server 2 requests round_number 3 clock synchronization to Server 3 at 16:36:31
+
+::::Process 1 clock after round 3 is 16:36:31 :::: 
+Round 3 completed in process 1 
+Server 2 receives round_number 4 clock synchronization response from Server 3 at 16:36:31
+Computing the round_number 3 delta between Server 2 and Server 3..
+Server 3 receives round_number 4 clock synchronization response from Server 2 at 16:36:31
+Computing the round_number 3 delta between Server 3 and Server 2..
+Server 2 requests round_number 3 clock synchronization to Server 4 at 16:36:31
+Server 3 requests round_number 3 clock synchronization to Server 4 at 16:36:31
+Server 2 receives round_number 4 clock synchronization response from Server 4 at 16:36:31
+Computing the round_number 3 delta between Server 2 and Server 4..
+Server 4 receives round_number 4 clock synchronization response from Server 2 at 16:36:31
+Computing the round_number 3 delta between Server 4 and Server 2..
+Server 2 requests round_number 3 clock synchronization to Server 5 at 16:36:31
+Server 4 requests round_number 3 clock synchronization to Server 3 at 16:36:31
+Server 2 receives round_number 4 clock synchronization response from Server 5 at 16:36:31
+Computing the round_number 3 delta between Server 2 and Server 5..
+Server 4 receives round_number 4 clock synchronization response from Server 3 at 16:36:31
+Computing the round_number 3 delta between Server 4 and Server 3..
+Server 3 receives round_number 4 clock synchronization response from Server 4 at 16:36:31
+Computing the round_number 3 delta between Server 3 and Server 4..
+Server 5 receives round_number 4 clock synchronization response from Server 2 at 16:36:31
+Computing the round_number 3 delta between Server 5 and Server 2..
+
+::::Process 2 clock after round 3 is 16:36:31 :::: 
+Round 3 completed in process 2 
+Server 4 requests round_number 3 clock synchronization to Server 5 at 16:36:31
+Server 3 requests round_number 3 clock synchronization to Server 5 at 16:36:31
+Server 5 requests round_number 3 clock synchronization to Server 3 at 16:36:31
+Server 3 receives round_number 4 clock synchronization response from Server 5 at 16:36:31
+Computing the round_number 3 delta between Server 3 and Server 5..
+Server 5 receives round_number 4 clock synchronization response from Server 3 at 16:36:31
+Computing the round_number 3 delta between Server 5 and Server 3..
+
+::::Process 3 clock after round 3 is 16:36:31 :::: 
+Round 3 completed in process 3 
+Server 5 requests round_number 3 clock synchronization to Server 4 at 16:36:31
+Server 5 receives round_number 4 clock synchronization response from Server 4 at 16:36:31
+Computing the round_number 3 delta between Server 5 and Server 4..
+Server 4 receives round_number 4 clock synchronization response from Server 5 at 16:36:31
+Computing the round_number 3 delta between Server 4 and Server 5..
+
+::::Process 5 clock after round 3 is 16:36:31 :::: 
+Round 3 completed in process 5 
+
+::::Process 4 clock after round 3 is 16:36:31 :::: 
+Round 3 completed in process 4 
+
+
+:::	Round1	Round2	Round3	
+P1: 	5098	5100	5101	
+P2: 	5099	5101	5101	
+P3: 	5098	5100	5101	
+P4: 	5099	5100	5101	
+P5: 	5100	5100	5101	
+
+Mean	5098.80	5100.20	5101.00	
+Var	0.560000	0.160000	0.000000	
