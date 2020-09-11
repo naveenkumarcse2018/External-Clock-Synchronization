@@ -3,7 +3,7 @@
 2. ProcessClass contains creation and communication between the process as given in the assignment discription
 
 
-** Commands to run the program **
+# Commands to run the program
 
 g++ -std=c++11 Main.cpp  -lpthread 
 ./a.out  > outputlog.txt < input.txt 
